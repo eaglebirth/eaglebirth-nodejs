@@ -556,7 +556,7 @@ const newToken = await client.auth.refreshToken({
 
 ## Support
 
-- Documentation: [https://eaglebirth.com/docs](https://eaglebirth.com/docs)
+- Documentation: [https://eaglebirth.com/developer/documentation](https://eaglebirth.com/developer/documentation)
 - Email: contact@eaglebirth.com
 - Dashboard: [https://eaglebirth.com](https://eaglebirth.com)
 
