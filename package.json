@@ -1,7 +1,7 @@
 {
   "name": "@eaglebirth/sdk",
-  "version": "1.1.0",
-  "description": "Official Node.js SDK for EagleBirth API - Email, SMS, WhatsApp, OTP, QR Codes, and Vision AI",
+  "version": "1.1.2",
+  "description": "Official Node.js SDK for EagleBirth API - Email, SMS, WhatsApp, OTP, QR Codes, Vision AI, and User Management",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

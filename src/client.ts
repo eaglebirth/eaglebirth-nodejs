@@ -31,7 +31,7 @@ export interface EagleBirthConfig {
 export class EagleBirth {
   private static readonly PRODUCTION_URL = 'https://eaglebirth.com/api';
   private static readonly SANDBOX_URL = 'https://sandbox.eaglebirth.com/api';
-  private static readonly VERSION = '1.1.0';
+  private static readonly VERSION = '1.1.2';
 
   private apiKey: string;
   private baseUrl: string;
